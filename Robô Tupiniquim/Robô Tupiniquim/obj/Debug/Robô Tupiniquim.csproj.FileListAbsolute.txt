@@ -1,0 +1,8 @@
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\bin\Debug\Robô Tupiniquim.exe.config
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\bin\Debug\Robô Tupiniquim.exe
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\bin\Debug\Robô Tupiniquim.pdb
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\obj\Debug\Robô Tupiniquim.csproj.AssemblyReference.cache
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\obj\Debug\Robô Tupiniquim.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\obj\Debug\Robô Tupiniquim.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\obj\Debug\Robô Tupiniquim.exe
+D:\Projetos C#\Acamdemia do Programador\Robô Tupiniquim\Robô Tupiniquim\obj\Debug\Robô Tupiniquim.pdb
