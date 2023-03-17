@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora\\Calculadora.ConsoleApp\\Calculadora.ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora.ConsoleApp\\Calculadora.ConsoleApp.csproj",
       "projectName": "Calculadora.ConsoleApp",
-      "projectPath": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora\\Calculadora.ConsoleApp\\Calculadora.ConsoleApp.csproj",
+      "projectPath": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora.ConsoleApp\\Calculadora.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora\\Calculadora.ConsoleApp\\obj\\",
+      "outputPath": "D:\\Projetos C#\\Exercicios-Academia\\Calculadora\\Calculadora.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
