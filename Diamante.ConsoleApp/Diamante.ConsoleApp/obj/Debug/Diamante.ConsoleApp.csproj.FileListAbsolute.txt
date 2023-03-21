@@ -6,3 +6,11 @@ D:\Projetos C#\Acamdemia do Programador\Diamante.ConsoleApp\Diamante.ConsoleApp\
 D:\Projetos C#\Acamdemia do Programador\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.csproj.CoreCompileInputs.cache
 D:\Projetos C#\Acamdemia do Programador\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.exe
 D:\Projetos C#\Acamdemia do Programador\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\bin\Debug\Diamante.ConsoleApp.exe.config
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\bin\Debug\Diamante.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\bin\Debug\Diamante.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\Diamante.ConsoleApp\Diamante.ConsoleApp\obj\Debug\Diamante.ConsoleApp.pdb
