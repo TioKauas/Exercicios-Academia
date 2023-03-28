@@ -1,0 +1,8 @@
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\bin\Debug\ArraysEFunções.ConsoleApp.exe.config
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\bin\Debug\ArraysEFunções.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\bin\Debug\ArraysEFunções.ConsoleApp.pdb
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\obj\Debug\ArraysEFunções.ConsoleApp.csproj.AssemblyReference.cache
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\obj\Debug\ArraysEFunções.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\obj\Debug\ArraysEFunções.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\obj\Debug\ArraysEFunções.ConsoleApp.exe
+D:\Projetos C#\Exercicios-Academia\ArraysEFunções.ConsoleApp\ArraysEFunções.ConsoleApp\obj\Debug\ArraysEFunções.ConsoleApp.pdb
